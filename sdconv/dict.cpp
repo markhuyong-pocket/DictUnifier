@@ -1,5 +1,6 @@
 // dict.cpp
 
+#include <python2.7/Python.h>
 #include "dict.h"
 
 static void parse_description(const char *p, long len, 

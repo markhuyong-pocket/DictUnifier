@@ -2,6 +2,7 @@
 
 #include "dict.h"
 #include "convert.h"
+#include <python2.7/Python.h>
 #include "python.h"
 #include "lua.h"
 #include "index.h"

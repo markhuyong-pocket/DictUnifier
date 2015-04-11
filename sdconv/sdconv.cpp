@@ -4,6 +4,8 @@
 #include <sys/stat.h>
 #include <stdlib.h>
 #include <ctype.h>
+#include <locale.h>
+#include <python2.7/Python.h>
 #include "mdk.h"
 
 void show_usage()
