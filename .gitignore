@@ -2,3 +2,15 @@
 *.perspectivev3
 zh_CN.lproj/MainMenu.xib
 build/
+
+DictUnifier.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/xcschememanagement.plist
+
+DictUnifier.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/sdconv.xcscheme
+
+DictUnifier.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/DictUnifier.xcscheme
+
+DictUnifier.xcodeproj/project.xcworkspace/xcuserdata/apple.xcuserdatad/UserInterfaceState.xcuserstate
+
+DictUnifier.xcodeproj/project.xcworkspace/xcshareddata/DictUnifier.xccheckout
+
+DictUnifier.xcodeproj/project.xcworkspace/contents.xcworkspacedata
